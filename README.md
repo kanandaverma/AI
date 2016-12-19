@@ -26,13 +26,21 @@ The	 Los	Angeles	 Lakers	are	 playing	against	 their	 rivals	 the	Boston	Celtics
 To	accomplish	this,	you	will	be	given	a	list	of	freeway	or	road	intersections	(i.e.,	locations) and	the	time	it	would	take	to	travel	from	there	to	other	freeway	or	road	intersections.	You	will	be required	 to	create	a	program	that	finds	 the	 fastest	 route	Jordan must	 travel	 to	get	 to	Staples	Center.	Your	program	should run	on	vocareum.com using	one	of	the	languages	and	compiler	supported	by	that	platform.	Your	program	will	be	graded	on	vocareum.	
 Your	program	will	be	given live	traffic information in	the	input.txt	file,	which	is	an	arbitrarily	large	list	of	current	traveling	times	between	intersections/locations.		An	example	live	traffic	data would	be	a	list	of	intersections	to	intersections	with	traveling	time	(in	minutes), in	the	following	format (see	below	for	the	full	specification	of	input.txt):
 JordanHome CA73/NewportCoastDr 5
+
 CA73/NewportCoastDr I405/CA73 10
+
 I405/CA73 I110/I405 25
+
 I110/I405 I10/I110 20
+
 I10/I110 I110/I405 30
+
 I10/I110 I10/I405 9
+
 I105/I110 I10/I110 7
+
 I10/I110 StaplesCenter 3
+
 Traveling	time	may	not	be the	same	for	both	directions.	For	example,	in	the	above:
 I110/I405 I10/I110 20
 indicates	that	it	takes	20	minutes	to	travel	from	I110/I405 to	I10/I110 (northbound	as	
