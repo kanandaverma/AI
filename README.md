@@ -39,7 +39,7 @@ indicates	that	it	takes	20	minutes	to	travel	from	I110/I405 to	I10/I110 (northbo
 you	follow	the	110	freeway),	but
 I10/I110 I110/I405 30
 indicates	that	it	takes	30	minutes	in	the	other	direction	(southbound).
-Beside	live	traffic	information,	Jordan also	has	an	idea	of	how	long	it	takes	on	a	traffic-free	Sunday	from	 each	 intersection/location	 to	 StaplesCenter.	 	 Hence,	 the	 input.txt	 file	 will	 also	 contain Jordan's Sunday	traffic estimate	 of	 traveling	 time from	 each	 location	 listed	 in	 the	 file	 to	 his	destination,	 which	 is	 also	 an	 arbitrarily	 large	 list	 of	 intersections/locations with	 estimated	traveling	time	(in	minutes) from	there to	StaplesCenter	on	a	traffic-free	Sunday:
+Beside	live	traffic	information,	Jordan also	has	an	idea	of	how	long	it	takes	on	a	traffic-free	Sunday	from	 each	 intersection/location	 to	 StaplesCenter.	 	 Hence,	 the	 input.txt	 file	 will	 also	 contain Jordan's Sunday	traffic estimate	 of traveling	 time from	 each	 location	 listed	 in	 the	 file	 to	 his	destination,	 which	 is	 also	 an	 arbitrarily	 large	 list	of intersections/locations with	 estimated	traveling	time	(in	minutes) from	there to	StaplesCenter	on	a	traffic-free	Sunday:
 JordanHome 55
 CA73/NewportCoastDr 50
 I405/CA73 40
