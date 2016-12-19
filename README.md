@@ -1,4 +1,5 @@
 CSCI-561	- Fall	2016	- Foundations	of	Artificial	Intelligence
+
 Homework	1
 Due	September	21,	2016	23:59:59
 Guidelines
